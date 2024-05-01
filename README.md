@@ -1,4 +1,3 @@
-# apuestas
+# APUESTAS
 
-Hola, estás son las apuestas
-print("hello caca")
+Repositorio para analizar apuestas
